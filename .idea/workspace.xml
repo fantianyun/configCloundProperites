@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a03946bd-d843-4548-af0c-efe995f3ee4a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configServe-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configServe-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configServe-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configServe-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configServe-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configServe-test.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configServe.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configServe.yml" afterDir="false" />
-    </list>
+    <list default="true" id="a03946bd-d843-4548-af0c-efe995f3ee4a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +20,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configServe.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="configServe.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/configServe.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -35,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configServe-test.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="configServe-test.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/configServe-test.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -175,16 +169,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564403923134</updated>
-      <workItem from="1564403924897" duration="410000" />
+      <workItem from="1564403924897" duration="1020000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="410000" />
+    <option name="totallyTimeSpent" value="1020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -196,10 +189,10 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3293348" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3293348" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -222,13 +215,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/configServe.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/configServe-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -247,6 +233,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configServe.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
